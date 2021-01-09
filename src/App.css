@@ -119,13 +119,37 @@ img {
   color:rgba(3, 2, 44, 0.993) !important;
 }
 
-
 .Skills h1 {
   text-align: center;
   font-size: 70px;
 }
 
-.About {
-  height: 1000px;
 
+
+
+
+.About {
+  height: 700px;
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 50px;
+}
+
+.About h2 {
+  border-bottom: 4px solid rgba(3, 2, 44, 0.993);
+  font-size: 70px;
+  margin-top: -150px;
+}
+
+.About p {
+  font-size: 30px;
+}
+
+.About img {
+  position: relative;
+  width: 11em;
+  height: auto;
+  left: 25em;
+  top: -3em;
 }
